@@ -49,7 +49,7 @@ npm run lint     # Run Oxlint
 
 ## Deployment
 
-This project includes a Netlify configuration in `portfolio/netlify.toml`.
+This project includes a Netlify configuration in the repository-root `netlify.toml`.
 
 - Base directory: `portfolio`
 - Build command: `npm run build`
